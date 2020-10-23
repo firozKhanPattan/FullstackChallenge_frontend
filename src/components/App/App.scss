@@ -5,3 +5,31 @@
     padding: $bpk-spacing-sm;
   }
 }
+ul {
+  list-style-type: none;
+}
+ li{
+  padding-top:5px;
+  padding-bottom :30px;
+}
+
+.hightlight_txt{
+  @include bpk-text-bold;
+  @include bpk-text--xl;
+}
+.blur_txt {
+  color: rgb(128,128,128)
+}
+.airline_icon {
+  width: 60%;
+  height: 60%;
+}
+.text_display {
+  display: block;
+}
+.non_stop {
+  color: rgb(0, 166, 152);
+}
+.with_stops {
+  color: rgb(166, 33, 0);
+}

@@ -30,8 +30,13 @@
     "react-test-renderer": "^16.11.0",
     "stylefmt": "^6.0.3",
     "stylelint": "^11.1.1",
-    "stylelint-config-skyscanner": "^1.0.1"
+    "stylelint-config-skyscanner": "^1.0.1",
+    "bpk-component-button": "^3.2.33",
+    "bpk-component-card": "^2.0.54",
+    "bpk-component-grid": "^2.0.54",
+    "bpk-component-icon": "^5.3.1"
   },
+  "proxy": "http://localhost:8080",
   "browserslist": [
     ">0.1%",
     "not dead",
