@@ -2,7 +2,12 @@
 
 Steps to run front End:
 
-Clone the repository and navigate to the application directory.
+Clone the repository:
+https://github.com/firozKhanPattan/FullstackChallenge_frontend/tree/master
+
+navigate to the application directory.
+
+npm install
 
 Run the application:
 
