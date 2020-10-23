@@ -1,6 +1,12 @@
 #  full-stack recruitment test
 
+Steps to run front End:
 
+Clone the repository and navigate to the application directory.
+
+Run the application:
+
+npm start
 
 Thanks for taking the time to do our front-end / full-stack coding test. The challenge has two parts:
 
