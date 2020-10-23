@@ -3,7 +3,7 @@
 Steps to run front End:
 
 Clone the repository:
-https://github.com/firozKhanPattan/FullstackChallenge_frontend/tree/master
+https://github.com/firozKhanPattan/FullstackChallenge_frontend.git
 
 navigate to the application directory.
 
