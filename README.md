@@ -1,6 +1,17 @@
 #  full-stack recruitment test
 
+Steps to run front End:
 
+Clone the repository:
+https://github.com/firozKhanPattan/FullstackChallenge_frontend/tree/master
+
+navigate to the application directory.
+
+npm install
+
+Run the application:
+
+npm start
 
 Thanks for taking the time to do our front-end / full-stack coding test. The challenge has two parts:
 
