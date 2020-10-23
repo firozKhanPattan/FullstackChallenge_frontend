@@ -13,6 +13,8 @@ Run the application:
 
 npm start
 
+The screen shots of various oreientations are provided in designs folder.
+
 Thanks for taking the time to do our front-end / full-stack coding test. The challenge has two parts:
 
 1) a [task](#task) to create a basic flight results front-end site to show flight prices
